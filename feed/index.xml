@@ -8,16 +8,24 @@
 	>
 
 <channel>
-	<title>Template Fast Static</title>
+	<title>Evoagro</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description></description>
-	<lastBuildDate>Wed, 29 Nov 2023 14:35:57 +0000</lastBuildDate>
+	<description>Transformamos cosechas con nuestros fertilizantes.</description>
+	<lastBuildDate>Wed, 29 Nov 2023 14:43:35 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>./../wp-content/uploads/2023/11/elementor/thumbs/abastecimiento--qfifl8h6l2wn3zh8raoxf4a57y1rguq4zxor9z7rwg.png</url>
+	<title>Evoagro</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
